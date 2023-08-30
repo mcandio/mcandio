@@ -1,6 +1,6 @@
 # Marcelo Candio
 
-👋 Hello, fellow tech enthusiasts! I'm Marcelo Candio, an accomplished IT professional with over 8 years of experience in the ever-evolving world of technology. Welcome to my GitHub profile!
+👋 Accomplished IT professional with over 8 years of experience in the ever-evolving world of technology.
 
 ## About Me
 
